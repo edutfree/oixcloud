@@ -21,10 +21,10 @@ DlerCloud基于运营商或云服务商提供的高质量/高优先级的商业�
 
 ## dlercloud套餐价格
 
-|Pass Bronze|Pass Silver|Pass Silver|Pass Gold|Pass Platinum|Pass Diamond|
-|----|----|----|----|----|----|
-|￥299/年|￥269/季|￥699/年|￥999/年|￥1499/年|￥999/年|
-|1000G|800G|3000G|6000G|9000G|12000G|
+|套餐|Pass Bronze|Pass Silver|Pass Silver|Pass Gold|Pass Platinum|Pass Diamond|
+|----|----|----|----|----|----|----|
+|价格|￥299/年|￥269/季|￥699/年|￥999/年|￥1499/年|￥999/年|
+|高速流量|1000G|800G|3000G|6000G|9000G|12000G|
 
 > 注意：所有套餐为**周期一次性高速流量** + **无限**低速流量
 
